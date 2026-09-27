@@ -1,0 +1,46 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+RENDERING_METHOD forward_plus
+PASS GI mode and label 1
+PASS GI node/environment state 1
+PASS GI mode and label 2
+PASS GI node/environment state 2
+PASS GI mode and label 3
+PASS GI node/environment state 3
+PASS GI mode and label 4
+PASS GI node/environment state 4
+PASS GI mode and label 0
+PASS GI node/environment state 0
+PASS GI mode and label 1
+PASS GI node/environment state 1
+PASS GI mode and label 2
+PASS GI node/environment state 2
+PASS GI mode and label 3
+PASS GI node/environment state 3
+PASS GI mode and label 4
+PASS GI node/environment state 4
+PASS GI mode and label 0
+PASS GI node/environment state 0
+PASS reflection cycle 1
+PASS reflection cycle 2
+PASS reflection cycle 0
+PASS reflection cycle 1
+PASS reflection cycle 2
+PASS reflection cycle 0
+PASS screen-space mode 1
+PASS screen-space flags 1
+PASS screen-space mode 2
+PASS screen-space flags 2
+PASS screen-space mode 3
+PASS screen-space flags 3
+PASS screen-space mode 0
+PASS screen-space flags 0
+PASS screen-space mode 1
+PASS screen-space flags 1
+PASS screen-space mode 2
+PASS screen-space flags 2
+PASS screen-space mode 3
+PASS screen-space flags 3
+PASS screen-space mode 0
+PASS screen-space flags 0
+HEADLESS STATE ONLY: no GI/reflection pixels, performance or films verified; failures=0
